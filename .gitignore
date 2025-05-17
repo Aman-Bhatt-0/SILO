@@ -1,0 +1,6 @@
+# Object files
+*.o
+
+tmp-alpine-rootfs
+alpine-minirootfs-3.21.3-x86_64
+alpine-minirootfs-3.21.3-x86_64.tar.gz
