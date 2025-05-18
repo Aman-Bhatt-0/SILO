@@ -1,7 +1,7 @@
 #include "cap.h"
 
 int drop_capabilities() {
-    fprintf(stderr, "=> setting up process capabilities...");
+    fprintf(stderr, "=> setting up process capabilities....");
 
     int caps_list[] = {
         CAP_SYS_ADMIN
